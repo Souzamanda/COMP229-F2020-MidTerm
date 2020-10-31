@@ -1,3 +1,8 @@
+//File name: books.js
+//Author's name: Amanda Cordeiro
+//Student ID: 301084304
+//Webapp name: My Favorite Books - MidTerm
+
 // modules required for routing
 let express = require('express');
 let router = express.Router();
